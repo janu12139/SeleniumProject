@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-08T19:49:11 IST" name="Default suite" finished-at="2024-07-08T19:49:21 IST" duration-ms="10069">
+    <groups>
+    </groups>
+    <test started-at="2024-07-08T19:49:11 IST" name="Default test" finished-at="2024-07-08T19:49:21 IST" duration-ms="10069">
+      <class name="project.ViewCategoryPro">
+        <test-method signature="f()[pri:0, instance:project.ViewCategoryPro@6da21078]" started-at="2024-07-08T19:49:11 IST" name="f" finished-at="2024-07-08T19:49:17 IST" duration-ms="5937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="ViewCategory()[pri:0, instance:project.ViewCategoryPro@6da21078]" started-at="2024-07-08T19:49:17 IST" name="ViewCategory" finished-at="2024-07-08T19:49:21 IST" duration-ms="4062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ViewCategory -->
+      </class> <!-- project.ViewCategoryPro -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

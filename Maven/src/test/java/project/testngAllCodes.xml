@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test  name="Test1">
+    <classes>
+      <class name="project.SubscriptionInHP"/>
+      <class name="project.BaseTest"/>
+      <class name="project.ProductQuantity"/>
+      <class name="project.VerifyAddDetails"/>
+      <class name="project.ViewCategoryPro"/>
+      <class name="project.RemoveProdToCart"/>
+      <class name="project.PlaceOrderLBC"/>
+      <class name="project.PlaceOrderRBC"/>
+      <class name="project.SearchProductsVerifycart"/>
+      <class name="project.ContactUsfrom"/>
+      <class name="project.SearchProduct"/>
+      <class name="project.RegisterUser"/>
+      <class name="project.PlaceOrderRWC"/>
+      <class name="project.SubscriptionInCP"/>
+      <class name="project.ReviewOnProduct"/>
+      <class name="project.ProductsInCart"/>
+      <class name="project.LoginWithCorrectDetails"/>
+      <class name="project.VerfyTestrCase"/>
+      <class name="project.LogoutUser"/>
+      <class name="project.ScrollUpWithoutArrow"/>
+      <class name="project.BrandProducts"/>
+      <class name="project.VerifyScrollUpAndDown"/>
+      <class name="project.RecomendedItems"/>
+      <class name="project.VerifyAllProducts"/>
+      <class name="project.RegisterWithExistingData"/>
+    </classes>
+  </test> 
+</suite> 

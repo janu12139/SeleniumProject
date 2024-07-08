@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+		<parameter name="browsername" value="chrome"/>
+		<parameter name="url" value="https://automationexercise.com/login"/>
+       <parameter name="Email" value="janu@gmail.com"/>
+	   <parameter name="PW" value="Jan@123"/>
+  <test name="Login">
+    <classes>
+      <class name="project.LoginWithInCorrectDetails">
+      <methods>
+		<include name="f"/>
+		<include name="LoginInCorrectdata"/>
+	  </methods>
+	  </class>
+</classes>
+
+  </test> 
+    
+	
+</suite> 
